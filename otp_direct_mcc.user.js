@@ -1069,7 +1069,7 @@ color:blue;
                 } else {
                     iPercent = 0;
                 }
-                oTdCost.html(sCost + '&nbsp<span class="cb' + iPercent + '">(CashBack:&nbsp' + fCB + ")</span>");
+                oTdCost.html(sCost + '&nbsp<span class="cb' + iPercent + '">(Каша:&nbsp' + fCB + ")</span>");
             }
         });
     }
