@@ -982,7 +982,7 @@ color:blue;
                             }
                         }
 
-                        aTd[3].innerHTML = '<span class="cb' + iPercent + '">CB: ' + fCB + "</span>";
+                        aTd[3].innerHTML = '<span class="cb' + iPercent + '">Каша: ' + fCB + "</span>";
                     }, err => true));
             }
         });
